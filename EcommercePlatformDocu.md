@@ -86,9 +86,18 @@ The scope of this eCommerce platform project encompasses the design, development
 
 ## Work breakdown Structure
 
-![image](https://github.com/user-attachments/assets/9c490c78-6f5f-46a9-965d-c6aa8a0941a5)
+| *Phase*                  | *Tasks*                                           |
+|----------------------------|-----------------------------------------------------|
+| *1. Planning & Research*  | Requirement gathering, feasibility study, project planning |
+| *2. Design*               | UI/UX design, database architecture design, use case development |
+| *3. Frontend Development* | User interface development (HTML/CSS/JS/React, etc.) |
+| *4. Backend Development*  | API development, database integration, business logic |
+| *5. Testing*              | Unit testing, integration testing, security testing |
+| *6. Deployment*           | Cloud setup, configuration, and launch |
+| *7. Maintenance*          | Ongoing bug fixes, feature updates, and performance monitoring |
 
 ## Functional Requirements
+
 
 ### User Requirements
 
