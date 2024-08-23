@@ -179,7 +179,7 @@ The scope of this eCommerce platform project encompasses the design, development
 
 ### use case
 ![image](https://github.com/user-attachments/assets/8229f510-9130-42a0-a054-2f689662dd7a)
-
+https://github.com/Fieeeshie/EcommercePlatformDocuments/blob/main/use_case.png?raw=true
 ## Database Architecture
 
 ### Data Dictionary
