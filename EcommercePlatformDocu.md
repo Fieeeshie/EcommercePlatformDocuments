@@ -16,7 +16,7 @@ diverse range of products.
 
 •Multi-factor authentication (MFA) for enhanced security.
 
-2.Product Catalog
+#### 2.Product Catalog
 
 •Dynamic and searchable product catalog with real-time inventory updates.
 
@@ -24,7 +24,7 @@ diverse range of products.
 
 •Detailed product pages with high-quality images, descriptions, and customer reviews.
 
-3.Shopping Cart
+#### 3.Shopping Cart
 
 •Persistent shopping cart that retains items across sessions.
 
@@ -32,7 +32,7 @@ diverse range of products.
 
 •Automatic calculation of total costs including taxes and shipping.
 
-4.Order Management
+#### 4.Order Management
 
 •Streamlined order placement process with multiple payment options.
 
@@ -40,7 +40,7 @@ diverse range of products.
 
 •Real-time order tracking integrated with major shipping carriers.
 
-5.Payment Integration
+#### 5.Payment Integration
 
 •Support for various payment methods including credit/debit cards, digital wallets (e.g., Paymaya, Gcash), and bank transfers.
 
@@ -48,7 +48,7 @@ diverse range of products.
 
 •Integration with major payment gateways like Stripe, PayPal, and local payment providers.
 
-6.Admin Panel
+#### 6.Admin Panel
 
 •Comprehensive dashboard for monitoring sales, user activity, and inventory levels.
 
@@ -56,7 +56,7 @@ diverse range of products.
 
 •Customer management features for handling queries, processing refunds, and managing user accounts.
 
-7.Customer Support
+#### 7.Customer Support
 
 •Integrated helpdesk system with ticket management and live chat support.
 
@@ -65,7 +65,7 @@ diverse range of products.
 •Automated email notifications for order confirmations, shipping updates, and support tickets.
 
 
-Reviews and Ratings
+#### 8.Reviews and Ratings
 
 •Verified purchase reviews to ensure authenticity.
 
@@ -74,7 +74,7 @@ Reviews and Ratings
 •Admin moderation tools for managing and responding to reviews.
 
 
-8.Inventory Management
+#### 9.Inventory Management
 
 •Automated stock level tracking with low-stock alerts.
 
