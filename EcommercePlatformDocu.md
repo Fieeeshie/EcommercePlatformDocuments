@@ -33,7 +33,10 @@ The scope of this eCommerce platform project encompasses the design, development
 
 •Deployment and Hosting: Hosting on a scalable cloud infrastructure, ensuring high availability, performance, and reliability.
 
-
+Out of Scope:
+•Brick-and-mortar store integration.
+•Support for multiple languages and currencies (to be added in future phases).
+•Social media commerce features (e.g., direct shopping through social media platforms).
 
 ## Work breakdown Structure
 
