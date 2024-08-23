@@ -7,15 +7,17 @@ digital marketplace where businesses can display their products and customers ca
 with scalability, security, and user experience in mind, ensuring that it can handle the demands of a growing user base and a 
 diverse range of products.
 
-## Project Features and Characteristics
-The proposed project Umak Library Mobile App consists of the following features:
-1. Catalog Module - recording and monitoring of resources - librarian
-2. User management module - logs - user
-3. Circulation management module - generate qr and scan qr by the students for borrowing of
-resources using Qr code - librarian and student
-4. OPAC - searching - student
-5. Reports - number of borrowers librarian
-   a. Daily, weekly, monthly and semestral reports
+B. Project Features and Characteristics
+
+1. User Account Management: Users can register, log in, and manage their profiles.
+2. Product Catalog: A dynamic and searchable catalog of products, including categories and filtering options.
+3. Shopping Cart: Users can add items to their cart and manage quantities.
+4. Order Management: Users can place orders, view their order history, and track deliveries.
+5. Payment Integration: Secure payment gateways for various methods (credit cards, digital wallets).You can also use COD
+6. Admin Panel: Admins can manage products, view sales reports, and handle customer queries.
+7. Customer Support: Users can contact customer service and manage tickets.
+8. Reviews and Ratings: Users can rate and review purchased products.
+9. Inventory Management: Automated stock tracking for efficient inventory control.
 
 ## Project Scope
 
