@@ -1,4 +1,4 @@
-# ECOMMERCE PLATFORM 
+# ECOMMERCE PLATFORM (GearTech)
 
 ## INTRODUCTION
 
@@ -247,7 +247,8 @@ https://www.figma.com/file/OXqoeVy3G1U1d3NSjdelYO/UMAK-LIBRARY-ERD?node-
 id=0%3A1&t=rUvRxPi6Dcy35dHu
 
 
-![image](https://github.com/user-attachments/assets/d4f53445-c2bd-4a6f-830f-5dd8e2177959)
+![ERD with colored entities (UML notation)](https://github.com/user-attachments/assets/d18d0c4f-5f7a-445a-8931-4112a73e7708)
+
 
 
 ## Non Functional Requirements
