@@ -24,9 +24,13 @@ diverse range of products.
 The scope of this eCommerce platform project encompasses the design, development, and deployment of a feature-rich online shopping platform. The platform is intended to serve small to medium-sized businesses, with potential scalability to accommodate larger enterprises. Key deliverables include:
 
 •Frontend Development: Creation of a responsive, intuitive, and aesthetically pleasing user interface that provides a smooth browsing and shopping experience across devices.
+
 •Backend Development: Implementation of robust server-side logic, database management, and API development to handle user interactions, product data, and payment processing.
+
 •Security: Ensuring the platform adheres to best security practices, including data encryption, secure authentication, and regular security audits.
+
 •Testing and Quality Assurance: Rigorous testing to ensure the platform is free of bugs, performs efficiently, and is secure from vulnerabilities.
+
 •Deployment and Hosting: Hosting on a scalable cloud infrastructure, ensuring high availability, performance, and reliability.
 
 
