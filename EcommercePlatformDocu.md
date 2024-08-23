@@ -1,27 +1,11 @@
-# HERONS LIBRARY: University of Makati Managing Library App Transaction
+# ECOMMERCE PLATFORM 
 
 ## INTRODUCTION
 
-The library is a vital part of any university because it provides a space for students and teachers
-to study, conduct research, and access various resources. There have been many library initiatives in
-almost every part of the world. A library management system is software made specifically to control
-every aspect of a library. It aids librarians in maintaining a database of newly released books as well as
-books that members have borrowed and their due dates. This system fully automates each activity in your
-library. Implementing a library management system software is the best approach to systematically
-maintaining, arranging, and handling innumerable books. Records for libraries are kept up to date using a
-library management system. It keeps track of the number of books in the library, how many are issued,
-how many are returned or renewed, how many have late fines assessed, etc.
-
-Library Manage system is software that books can be quickly located, issued, or reissued, and all
-the data can be managed effectively and efficiently. A library management system's goal is to provide
-information instantly and accurately about any type of book, saving a great deal of time and effort. Having
-the User management module, recording logs or activities inside the library such as reading, researching,
-skimming and SDI (Selection Dissemination Information), borrowing books, and other resources would
-not be time-consuming as before. Also, the User Management Module will keep track of the user’s details.
-Catalog Module, which provides the list of the materials and resources available. Circulation Management
-Module that provides the QR code of the materials or book that the user is going to borrow. And OPAC
-(Online Public Access Catalog) that enables users to access the application anywhere and anytime they
-want to check and explore the available materials the library can provide.
+The eCommerce platform is designed to provide a comprehensive and user-friendly online shopping experience. It serves as a 
+digital marketplace where businesses can display their products and customers can purchase them with ease. The platform is built 
+with scalability, security, and user experience in mind, ensuring that it can handle the demands of a growing user base and a 
+diverse range of products.
 
 ## Project Features and Characteristics
 The proposed project Umak Library Mobile App consists of the following features:
