@@ -111,7 +111,7 @@ The scope of this eCommerce platform project encompasses the design, development
 ## Functional Requirements
 
 
-### User Requirements
+
 
 ### User Requirements
 
