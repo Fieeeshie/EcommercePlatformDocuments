@@ -21,18 +21,13 @@ diverse range of products.
 
 ## Project Scope
 
-UMak Library Management System is proposed to provide a function that helps the librarian and the
-student be productive and efficient with their tasks inside the University's Library. These cover the data
-of the student, library materials and resources, and records of activities inside the library. In order to
-support and provide the library with accurate data, efficient organizing and tracking of lists of records,
-and track the activities within the library. The system may be provided to the Head librarian, library
-staff, and to the College students of Umak.
+The scope of this eCommerce platform project encompasses the design, development, and deployment of a feature-rich online shopping platform. The platform is intended to serve small to medium-sized businesses, with potential scalability to accommodate larger enterprises. Key deliverables include:
 
-However, the system only allows the student users to access the list of available resources and
-materials that they can borrow insider the library, they cannot bring home the books outside the library
-because it does not allow the student to do so. Currently the system does not provide e-books that can
-be downloaded since it will affect the library data privacy. Only students can use or borrow the materials
-inside the library.
+•Frontend Development: Creation of a responsive, intuitive, and aesthetically pleasing user interface that provides a smooth browsing and shopping experience across devices.
+•Backend Development: Implementation of robust server-side logic, database management, and API development to handle user interactions, product data, and payment processing.
+•Security: Ensuring the platform adheres to best security practices, including data encryption, secure authentication, and regular security audits.
+•Testing and Quality Assurance: Rigorous testing to ensure the platform is free of bugs, performs efficiently, and is secure from vulnerabilities.
+•Deployment and Hosting: Hosting on a scalable cloud infrastructure, ensuring high availability, performance, and reliability.
 
 
 
