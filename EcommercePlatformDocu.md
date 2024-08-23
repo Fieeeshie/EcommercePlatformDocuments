@@ -9,7 +9,7 @@ diverse range of products.
 
 ## B. Project Features and Characteristics
 
-
+1.User Account Management
 •Secure registration and login with email verification.
 •Profile management with options to update personal details, passwords, and preferences.
 •Multi-factor authentication (MFA) for enhanced security.
