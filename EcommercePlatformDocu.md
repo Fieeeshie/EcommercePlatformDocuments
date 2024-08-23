@@ -7,7 +7,7 @@ digital marketplace where businesses can display their products and customers ca
 with scalability, security, and user experience in mind, ensuring that it can handle the demands of a growing user base and a 
 diverse range of products.
 
-##B. Project Features and Characteristics
+## B. Project Features and Characteristics
 
 1. User Account Management: Users can register, log in, and manage their profiles.
 2. Product Catalog: A dynamic and searchable catalog of products, including categories and filtering options.
