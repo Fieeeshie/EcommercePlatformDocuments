@@ -7,7 +7,7 @@ digital marketplace where businesses can display their products and customers ca
 with scalability, security, and user experience in mind, ensuring that it can handle the demands of a growing user base and a 
 diverse range of products.
 
-## B. Project Features and Characteristics
+## Project Features and Characteristics
 
 1.User Account Management
 •Secure registration and login with email verification.
