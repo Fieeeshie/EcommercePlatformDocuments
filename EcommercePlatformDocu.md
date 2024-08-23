@@ -9,58 +9,79 @@ diverse range of products.
 
 ## Project Features and Characteristics
 
-1.User Account Management
+#### 1.User Account Management
 •Secure registration and login with email verification.
+
 •Profile management with options to update personal details, passwords, and preferences.
+
 •Multi-factor authentication (MFA) for enhanced security.
 
 2.Product Catalog
 
 •Dynamic and searchable product catalog with real-time inventory updates.
+
 •Advanced filtering options based on categories, price range, ratings, and more.
+
 •Detailed product pages with high-quality images, descriptions, and customer reviews.
 
 3.Shopping Cart
 
 •Persistent shopping cart that retains items across sessions.
+
 •Ability to modify item quantities, remove items, and save products for later.
+
 •Automatic calculation of total costs including taxes and shipping.
 
 4.Order Management
 
 •Streamlined order placement process with multiple payment options.
+
 •Comprehensive order history, including downloadable invoices and receipts.
+
 •Real-time order tracking integrated with major shipping carriers.
 
 5.Payment Integration
 
 •Support for various payment methods including credit/debit cards, digital wallets (e.g., Paymaya, Gcash), and bank transfers.
+
 •Secure transactions using industry-standard encryption and fraud detection.
+
 •Integration with major payment gateways like Stripe, PayPal, and local payment providers.
 
 6.Admin Panel
 
 •Comprehensive dashboard for monitoring sales, user activity, and inventory levels.
+
 •Tools for product management, including bulk upload, editing, and categorization.
+
 •Customer management features for handling queries, processing refunds, and managing user accounts.
 
 7.Customer Support
 
 •Integrated helpdesk system with ticket management and live chat support.
+
 •Knowledge base and FAQ section for self-service support.
+
 •Automated email notifications for order confirmations, shipping updates, and support tickets.
+
 
 Reviews and Ratings
 
 •Verified purchase reviews to ensure authenticity.
+
 •Star ratings with the option to filter products based on ratings.
+
 •Admin moderation tools for managing and responding to reviews.
+
 
 8.Inventory Management
 
 •Automated stock level tracking with low-stock alerts.
+
 •Integration with suppliers for real-time stock updates.
+
 •Reporting tools for analyzing inventory turnover and forecasting demand.
+
 
 ## Project Scope
 
