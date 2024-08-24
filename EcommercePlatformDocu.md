@@ -106,7 +106,7 @@ The scope of this eCommerce platform project encompasses the design, development
 •Social media commerce features (e.g., direct shopping through social media platforms).
 
 ## Work breakdown Structure
-![Blank diagram](https://github.com/user-attachments/assets/bd8acde8-5b7b-4ce8-8428-9e63a85864e9)
+![Blank diagram (1)](https://github.com/user-attachments/assets/f6ad86a6-c283-472e-85ee-0d7b8f56b039)
 
 ## Functional Requirements
 
