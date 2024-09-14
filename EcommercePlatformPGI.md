@@ -22,25 +22,34 @@ TechGear is an online store where people can buy and sell computer parts and har
 
 ## C. Project Objectives:
 
-To develop a SYSTEM_NAME APP that will help manage the ______ with the following features:
-1.User-Friendly Design
-Create an easy-to-navigate website.
-2.Wide Product Selection:
-Offer many types of computer parts and hardware.
-3.Search and Filters:
-Help users find products quickly.
-4.Secure Payments:
-Ensure that transactions are safe.
-5.Detailed Info:
-Provide clear product details and  compatibility tips.
-6.Visual Build Guide:
-Create step-by-step guides to help users assemble and configure different computer builds.
-7.Expert Reviews and Ratings:
-Incorporate detailed reviews and ratings from tech experts and users to aid in decision-making.
-8.Price Drop Alerts:
-Enable users to set alerts for price drops on products they are interested in.
-9.Extended Warranty Options:
-Offer optional extended warranties for added peace of mind with purchases.
+To develop the TechGear platform that will help manage the buying and selling of computer parts, with the following key features:
+
+User-Friendly Design:
+A simple and easy-to-use website that makes shopping enjoyable and stress-free.
+
+Wide Range of Products:
+Offer a large selection of computer parts and hardware for users to choose from.
+
+Search and Filter Options:
+Allow users to quickly find the exact parts they need by using search tools and filters (e.g., by brand, price, or compatibility).
+
+Secure Payment System:
+Ensure safe and protected online payments for all transactions.
+
+Clear Product Information:
+Provide detailed product descriptions, including compatibility tips, so users can make informed decisions.
+
+Visual Build Guides:
+Offer step-by-step visual guides to help users assemble computers and configure different builds.
+
+Expert Reviews and User Ratings:
+Include expert reviews and user ratings to help customers decide which products are the best fit for them.
+
+Price Drop Notifications:
+Allow users to set alerts for price drops on items they are interested in, so they never miss a good deal.
+
+Extended Warranty Options:
+Give users the option to purchase extended warranties for added protection on their purchases.
 
 
 ## D. Business Benefits:
