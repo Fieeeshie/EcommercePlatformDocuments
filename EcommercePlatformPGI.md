@@ -1,7 +1,7 @@
 # Project General Information
 
-Group Name: GROUP NAME
-Project Title: ECOMMERCE PLATFORM
+Group Name: ECOMMERCE PLATFORM
+Project Title: TECHGEAR
 
 ## A. Problem Statement:
 Finding and buying computer parts online can be confusing and time-consuming. Customers often struggle with:
