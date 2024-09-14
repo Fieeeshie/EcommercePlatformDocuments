@@ -4,52 +4,19 @@ Group Name: ECOMMERCE PLATFORM
 Project Title: TECHGEAR
 
 ## A. Problem Statement:
-Finding and buying computer parts online can be confusing and time-consuming. Customers often struggle with:
-
-Fragmented Information:
-Many websites sell computer parts, but information is often scattered. Customers have to visit multiple sites to gather details, compare prices, and check compatibility.
-
-Compatibility  Issues:
-Ensuring that computer parts work together can be complex. Users might struggle to find accurate compatibility information, leading to incorrect purchases and wasted time.
-
-Price Comparison Difficulties:
-Comparing prices across different platforms can be tedious. Users might not have a clear way to see which site offers the best deal or value for their money.
-
+The TechGear platform solves the issue of fragmented information, compatibility concerns, and price comparison difficulties when purchasing computer parts online. Customers currently need to visit multiple websites to gather product details, check for compatibility, and compare prices, making the purchasing process time-consuming and prone to errors.
 
 ## B. Project Description:
-TechGear is an online store where people can buy and sell computer parts and hardware. Our goal is to make it easy for tech enthusiasts and professionals to find the right components and make purchases quickly and safely.
+TechGear is an online eCommerce platform designed to facilitate the buying and selling of computer parts and hardware. Its main purpose is to simplify the shopping experience for tech enthusiasts and professionals by offering a comprehensive solution that includes product listings, compatibility information, price comparison tools, and secure payment options, all in one place.
 
 
 ## C. Project Objectives:
+Develop TechGear to help manage the buying and selling of computer parts, with the following features:
 
-To develop the TechGear platform that will help manage the buying and selling of computer parts, with the following key features:
-
-User-Friendly Design:
-A simple and easy-to-use website that makes shopping enjoyable and stress-free.
-
-Wide Range of Products:
-Offer a large selection of computer parts and hardware for users to choose from.
-
-Search and Filter Options:
-Allow users to quickly find the exact parts they need by using search tools and filters (e.g., by brand, price, or compatibility).
-
-Secure Payment System:
-Ensure safe and protected online payments for all transactions.
-
-Clear Product Information:
-Provide detailed product descriptions, including compatibility tips, so users can make informed decisions.
-
-Visual Build Guides:
-Offer step-by-step visual guides to help users assemble computers and configure different builds.
-
-Expert Reviews and User Ratings:
-Include expert reviews and user ratings to help customers decide which products are the best fit for them.
-
-Price Drop Notifications:
-Allow users to set alerts for price drops on items they are interested in, so they never miss a good deal.
-
-Extended Warranty Options:
-Give users the option to purchase extended warranties for added protection on their purchases.
+Feature 1: User-Friendly Interface: Easy-to-navigate design to enhance the shopping experience.
+Feature 2: Secure Payments: Robust payment gateway integration to ensure the safety of transactions.
+Feature 3: Price Drop Alerts: Notifications for users when prices of products of interest decrease.
+Feature 4: Visual Build Guide: Step-by-step instructions for users to build and assemble their computer systems.
 
 
 ## D. Business Benefits:
@@ -79,7 +46,7 @@ Give users the option to purchase extended warranties for added protection on th
       • Prototype
     
     4. Development
-       
+      • Functional and non-functional features built and tested.
     
     6. Test
       • Functional
@@ -89,7 +56,7 @@ Give users the option to purchase extended warranties for added protection on th
       • User Acceptance Testing
 
 ## F. Benchmarking
-  1. ex. Shopee
+  1. Example: Shopee (for its wide range of products, search filters, and user-friendly experience).
 
 ## G. Estimated Project Duration:
 5 months
