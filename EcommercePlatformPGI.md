@@ -44,11 +44,14 @@ Offer optional extended warranties for added peace of mind with purchases.
 
 
 ## D. Business Benefits:
-1. 
-2. 
-3. 
-4. 
-..
+1. Better Customer Experience:  
+   Users will find it easier to buy the right products with a simple and smooth process.
+2. Increased Customer Confidence: 
+   Providing clear product details and reviews will help users trust their purchases more.
+3. More Sales Opportunities:   
+   Features like price drop alerts and extended warranties will encourage more purchases.
+4. A Reliable Marketplace: 
+   TechGear will become a trusted place for people to buy and sell computer parts.
 
 ## E. Project Deliverables:
     1. Requirements
@@ -80,6 +83,6 @@ Offer optional extended warranties for added peace of mind with purchases.
   1. ex. Shopee
 
 ## G. Estimated Project Duration:
-
+5 months
 
 Prepared by:
