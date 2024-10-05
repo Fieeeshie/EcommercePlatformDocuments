@@ -240,11 +240,12 @@ The scope of this eCommerce platform project encompasses the design, development
 
 
 
+
 ## ERD
 
 For Best View
-https://www.figma.com/file/OXqoeVy3G1U1d3NSjdelYO/UMAK-LIBRARY-ERD?node-
-id=0%3A1&t=rUvRxPi6Dcy35dHu
+[https://www.figma.com/file/OXqoeVy3G1U1d3NSjdelYO/UMAK-LIBRARY-ERD?node-
+id=0%3A1&t=rUvRxPi6Dcy35dHu](https://lucid.app/lucidchart/cb397712-eaf6-4628-848d-0a3fad767ea2/view)
 
 
 ![ERD with colored entities (UML notation)](https://github.com/user-attachments/assets/d18d0c4f-5f7a-445a-8931-4112a73e7708)
