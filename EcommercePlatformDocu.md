@@ -249,6 +249,8 @@ id=0%3A1&t=rUvRxPi6Dcy35dHu](https://lucid.app/lucidchart/cb397712-eaf6-4628-848
 
 
 ![ERD with colored entities (UML notation)](https://github.com/user-attachments/assets/d18d0c4f-5f7a-445a-8931-4112a73e7708)
+![image](https://github.com/user-attachments/assets/4f710066-ea28-4e4c-91a8-df0d328a51fe)
+
 
 
 
